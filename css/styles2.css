@@ -4,10 +4,23 @@
 
 h1{
   font-style: unset;
-  font-family:fantasy;
+  font-family: 'Bodoni Moda', serif;
   text-align: center;
+  font-size: 25px;
+  margin-bottom: -5px;
+  margin-top: 10px;
 
 }
+
+h2 {
+
+  font-family: 'Faustina', serif;
+  font-weight: lighter;
+  font-size: 7px;
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+
+  }
 
 p {
   background-color: #bfbfbf;

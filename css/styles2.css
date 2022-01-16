@@ -3,9 +3,10 @@
 }
 
 h1{
-  font-style: bold;
-  font-family: fantasy;
+  font-style: unset;
+  font-family:fantasy;
   text-align: center;
+
 }
 
 p {
@@ -32,12 +33,12 @@ p {
   position: absolute;
   top: 0;
   right: 0;
-  font-weight: bold;
   height: 30px;
   width: 100px;
   padding: 5px;
   text-align: center;
-  font-family: fantasy;
+  font-style: normal;
+  font-weight: bold;
 
 }
 #p2 {
@@ -51,7 +52,8 @@ p {
   width: 100px;
   padding: 5px;
   text-align: center;
-  font-family: fantasy;
+  font-style: normal;
+
 
 }
 #p3 {
@@ -65,7 +67,7 @@ p {
   width: 100px;
   padding: 5px;
   text-align: center;
-  font-family: fantasy;
+  font-style: normal;
 
 }
 
@@ -80,7 +82,7 @@ p {
   width: 100px;
   padding: 5px;
   text-align: center;
-  font-family: fantasy;
+  font-style: normal;
 
 }
 

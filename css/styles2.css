@@ -23,13 +23,15 @@ h2 {
   }
 
 p {
-  background-color: #bfbfbf;
+  background-color: lightgrey;
   border: 2px solid black;
   height: 230px;
-  margin-right: 20px;
-  margin-bottom: 20px;
-  padding: 30px 20px 20px 20px;
-  overflow: hidden;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+  padding: 40px 10px 10px 10px;
+  overflow: auto;
   text-align: justify;
   float: left;
 }
@@ -41,8 +43,8 @@ p {
 }
 
 #p1 {
-  background-color: red;
-  color: white;
+  background-color: gold;
+  color: black;
   position: absolute;
   top: 0;
   right: 0;
@@ -52,10 +54,11 @@ p {
   text-align: center;
   font-style: normal;
   font-weight: bold;
+  overflow: unset;
 
 }
 #p2 {
-  background-color:yellow ;
+  background-color:antiquewhite;
   color: black;
   position: absolute;
   top: 0;
@@ -66,12 +69,13 @@ p {
   padding: 5px;
   text-align: center;
   font-style: normal;
+  overflow: unset;
 
 
 }
 #p3 {
- background-color: blue;
- color: white;
+ background-color: sandybrown;
+ color: black;
   position: absolute;
   top: 0;
   right: 0;
@@ -81,12 +85,13 @@ p {
   padding: 5px;
   text-align: center;
   font-style: normal;
+  overflow: unset;
 
 }
 
 #p4 {
-  background-color: green;
-  color: white;
+  background-color: lightpink;
+  color: black;
   position: absolute;
   top: 0;
   right: 0;
@@ -96,6 +101,7 @@ p {
   padding: 5px;
   text-align: center;
   font-style: normal;
+  overflow: unset;
 
 }
 
